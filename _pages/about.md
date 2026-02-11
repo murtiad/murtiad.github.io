@@ -13,7 +13,7 @@ I received my Bachelor's degree in Geodetic and Geomatics Engineering at the <a 
 
 Since 2025 I am a tenure-track Junior Professor at INSA Strasbourg where I hold the [Chair of Digital Twin for Cultural Heritage](https://twin4ch.github.io/). The focus of the Chair is the investigation of the various interactions between built cultural heritage (primarily urban) and the climate. This inevitably includes studies and developments of cutting-edge geomatics techniques.
 
-I am also an active expert member of [CIPA Heritage Documentation](https://www.cipaheritagedocumentation.org/), where I also serve the Exceutive Board as co-chair of communications. I am also an officer for the [ISPRS](https://www2.isprs.org/commissions/comm2/wg6/), specifically for Commission II (Photogrammetry) and Working Group 6 (Cultural heritage data acquisition and processing).
+I am also an active expert member of [CIPA Heritage Documentation](https://www.cipaheritagedocumentation.org/), where I also serve at the Exceutive Committee as co-chair of communications. I am also an officer for the [ISPRS](https://www2.isprs.org/commissions/comm2/wg6/), specifically for Commission II (Photogrammetry) and Working Group 6 (Cultural heritage data acquisition and processing).
 
 Feel free to take a look at my <a href="https://murtiad.github.io/publications/">publications</a>, my 3D model <a href="https://sketchfab.com/murtiyoso.arnadi">portfolio</a> (on Sketchfab) or my <a href="https://murtiad.github.io/cv/">CV</a>. 
 
