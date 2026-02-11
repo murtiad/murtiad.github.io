@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-A selection of my work, sorted by topics. You can also find a complete list of my articles (60+) on <a href="https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
+A selection of my work, sorted by topics. You can also find a complete list of my articles (80+) on <a href="https://scholar.google.fr/citations?user=JoXowwQAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
 # My theses
 - PhD thesis (2020): <a href="http://dx.doi.org/10.13140/RG.2.2.14407.52643" target="_blank">Geospatial recording and point cloud classification of heritage buildings</a>. Advisor: Pierre Grussenmeyer. Jury members: Andreas Georgopoulos, Diego Gonzàlez-Aguilera, Pierre Charbonnier and Fabio Remondino.
