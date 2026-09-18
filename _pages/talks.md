@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 # Invited talks
-- AI for 3D Digital Twins in Cultural Heritage. Invited talk for stakeholder forum of <a href="https://www.3d4ch-competencecentre.eu/" target="_blank">3D-4CH Online Competence Centre in 3D for Cultural Heritage</a> organised by the <a href="https://commission.europa.eu/index_en" target="_blank">European Commission</a> , 23 March 2026.
+- AI for 3D Digital Twins in Cultural Heritage. Invited talk for stakeholder forum of <a href="https://www.3d4ch-competencecentre.eu/" target="_blank">3D-4CH Online Competence Centre in 3D for Cultural Heritage</a> organised by the <a href="https://commission.europa.eu/index_en" target="_blank">European Commission</a>, 23 March 2026.
 - Unseen Forces: How Environmental Threats Shape the Future of 3D Built Heritage.  Keynote talk during the <a href="https://3darch.fbk.eu/" target="_blank">3D-ARCH 2026</a> Workshop in Ancona, Italy, 10-12 February 2026.
 - A Digital Link To the Past: AI and Geospatial Technologies for Heritage Documentation. Invited talk for <a href="https://ice-smartech.org/" target="_blank">ICE-SMARTECH 2023</a>, 17-19 July 2023 organised by Maranatha Christian University, Bandung, Indonesia.
 - Napak tilas maya: Peran teknik geospasial dan pembelajaran mesin dalam rekonstruksi 3D untuk dokumentasi cagar budaya. Webinar, 5 May 2023 organised by Center for Geospatial, BRIN.
