@@ -28,15 +28,16 @@ objek arkeologi (Studi kasus: candi perwara nomor 72 komplek Candi Sewu)</a>. Ad
 
 
 # Point cloud processing
+- **Murtiyoso, A.**, Mazzacca, G., Remondino, F., and Suwardhi, D., 2025, <a href="https://doi.org/10.5194/isprs-archives-XLVIII-M-9-2025-1065-2025" target="_blank">Integrative AI for the Understanding of Ancient Javanese Architectures</a>, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-9-2025, pp.1065–1072.
 - **Murtiyoso, A.**, Pellis, E., Grussenmeyer, P., Landes, T. and Masiero, A., 2022. <a href="https://doi.org/10.3390/s22030966" target="_blank">Towards Semantic Photogrammetry: Generating Semantically Rich Point Clouds from Architectural Close-Range Photogrammetry</a>. Sensors, 22(3), p.966. 
 - **Murtiyoso, A.** and Grussenmeyer, P., 2020. <a href="https://doi.org/10.3390/s20082161" target="_blank">Virtual disassembling of historical edifices: Experiments and assessments of an automatic approach for classifying multi-scalar point clouds into architectural elements</a>.. Sensors, 20(8), p.2161. 
-- **Murtiyoso, A.**, Veriandi, M., Suwardhi, D., Soeksmantono, B. and Harto, A.B., 2020. <a href="https://doi.org/10.3390/ijgi9120743" target="_blank">Automatic Workflow for Roof Extraction and Generation of 3D CityGML Models from Low-Cost UAV Image-Derived Point Clouds</a>. ISPRS International Journal of Geo-Information, 9(12), p.743. 
 
 
 # Novel 3D sensors
+- **Murtiyoso, A.** and Macher, H., 2025, <a href="https://doi.org/10.5194/isprs-archives-XLVIII-M-9-2025-1059-2025" target="_blank">Gaussian Splatting for Facade Orthophoto Generation – Comparison with MVS and TLS</a>, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-9-2025, 1059–1064.
 - **Murtiyoso, A.** and Grussenmeyer, P., 2023. <a href="https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-1113-2023" target="_blank">Initial assessment on the use of state-of-the-art NeRF neural network 3D reconstruction for heritage documentation</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-2-2023, pp. 1113-1118. 
 - **Murtiyoso, A.**, Grussenmeyer, P., Landes, T. and Macher, H., 2021. <a href="https://doi.org/10.5194/isprs-archives-XLIII-B2-2021-599-2021" target="_blank">First assessments into the use of commercial-grade solid state lidar for low cost heritage documentation</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B2-2021, pp. 599–604. 
-- **Murtiyoso, A.** and Grussenmeyer, P., 2021. <a href="https://doi.org/10.5194/isprs-archives-XLVI-M-1-2021-487-2021" target="_blank">Experiments using smartphone-based videogrammetry for low-cost cultural heritage documentation</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVI-M-1-2021, pp. 487–491. 
+
 
 # 3D for forests
 - Fol, C.R., Kükenbrink, D., Rehush, N., **Murtiyoso, A.**, and Griess, V.C., 2023. <a href="https://doi.org/10.1016/j.jag.2023.103396" target="_blank">Evaluating state-of-the-art 3D scanning methods for stem-level biodiversity inventories in forests</a>. International Journal of Applied Earth Observation and Geoinformation, Vol. 122, p. 103396.
